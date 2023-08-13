@@ -1,0 +1,24 @@
+{
+  "todolist": [
+    {
+      "id": 2,
+      "task": "Clear BedRoom",
+      "complete": true
+    },
+    {
+      "id": "b45ea436-257d-860f-7da0-86476bb54f14",
+      "task": "gggg",
+      "complete": true
+    },
+    {
+      "id": "ba2eaebb-dc44-9cf4-6c91-56d3d7ac9cb1",
+      "task": "",
+      "complete": false
+    },
+    {
+      "id": "280cf672-3dda-22d1-96ed-b405e4df59f9",
+      "task": "",
+      "complete": false
+    }
+  ]
+}
